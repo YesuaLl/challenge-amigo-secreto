@@ -2,10 +2,10 @@
     --color-primary: #3a7c3f;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #1a406e;
+    --color-button-hover: #356e30;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white: #ffffff;
 }
 
 /* Estilos generales */
@@ -122,7 +122,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #41db17;
 }
 
 /* Listas */
