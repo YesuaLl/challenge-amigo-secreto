@@ -61,4 +61,4 @@ El objetivo es **practicar lógica de programación y manipulación del DOM**, r
 Puedes clonar este repositorio y abrir el archivo `index.html` en tu navegador:  
 
 ```bash
-git clone https://github.com/usuario/challenge-amigo-secreto.git
+https://github.com/YesuaLl/challenge-amigo-secreto.git
